@@ -1,0 +1,12 @@
+name: python-basic
+channeks:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - h5py
+  - scikit-learn
+  - pip
+  - pip:
+    - matplotlib
